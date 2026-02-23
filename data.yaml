@@ -1,0 +1,7 @@
+path: C:\Users\Lenovo\Documents\surveillance-system\data
+train: images/train
+val: images/val
+test: images/test
+
+nc: 6
+names: ['Grenade', 'Knife', 'Missile', 'Pistol', 'Rifle', 'Fire']

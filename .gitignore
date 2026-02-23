@@ -1,0 +1,10 @@
+﻿@
+data/
+fire_detection_dataset/
+fire_smoke_dataset/
+weapon-detection-1/
+weights/
+venv/
+.env
+__pycache__/
+@
